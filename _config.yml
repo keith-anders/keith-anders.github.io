@@ -1,3 +1,3 @@
 name: Keith Anders, The Developing Coder
-markdown: github
+markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
