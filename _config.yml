@@ -1,2 +1,3 @@
 name: Keith Anders, The Developing Coder
 markdown: github
+permalink: /blog/:year/:month/:day/:title
