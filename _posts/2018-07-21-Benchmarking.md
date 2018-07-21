@@ -3,6 +3,7 @@ title: Benchmarking
 layout: csharp
 date: 2018-07-21
 ---
+
 {% highlight csharp}
 ﻿#define CSHARP7
 
