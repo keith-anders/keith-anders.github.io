@@ -5,7 +5,7 @@ date: 2018-07-21
 ---
 
 {% highlight csharp}
-﻿#define CSHARP7
+#define CSHARP7
 
 using System;
 using System.Collections.Generic;
@@ -363,4 +363,5 @@ namespace Benchmarking
     //    }
     //}
 }
+
 {% endhighlight %}
