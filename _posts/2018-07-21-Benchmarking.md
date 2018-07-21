@@ -3,8 +3,7 @@ title: Benchmarking
 layout: csharp
 date: 2018-07-21
 ---
-
-```csharp
+{% highlight csharp}
 ﻿#define CSHARP7
 
 using System;
@@ -363,4 +362,4 @@ namespace Benchmarking
     //    }
     //}
 }
-```
+{% endhighlight %}
