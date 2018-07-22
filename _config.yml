@@ -1,3 +1,4 @@
 name: Keith Anders, The Developing Coder
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+extensions: [fenced_code_blocks]

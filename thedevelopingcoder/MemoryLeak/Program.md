@@ -1,4 +1,10 @@
-﻿```csharp
+---
+title: Benchmarking
+layout: csharp
+date: 2018-07-21
+---
+
+~~~~~~~~
 using System;
 using System.Threading;
 using System.Threading.Tasks;
@@ -80,4 +86,5 @@ class Program
         return (currentWinner, maxScore);
     }
 }
-```
+~~~~~~~~
+{: .language-csharp}

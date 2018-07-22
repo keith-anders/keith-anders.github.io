@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="site.css"/>
+  </head>
+  <body>
+    <nav class="navbar navbar-dark sticky-top">
+      <ul class="nav nav-pills">
+        <li id="BlogSchedule" class="first-pill"><a class="nav-link" href="\index.html">Blog Schedule</a></li>
+        <li id="About" class="last-pill"><a class="nav-link" href="\about.html">About</a></li>
+      </ul>
+    </nav>
+    {{ content }}
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="./js/bootstrap.min.js"></script>
+    <script language="javascript">
+      var title = "{{ page.title }}";
+      var stripped = title.replace(/\s+/, "");
+      $("#" + stripped).addClass("active");
+    </script>
+  </body>
+</html>

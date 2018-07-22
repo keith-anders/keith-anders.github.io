@@ -1,8 +1,15 @@
 <!DOCTYPE html>
   <html>
+    <head>
+      <link rel="stylesheet" type="text/css" href="/css/monokai.css"/>
+    </head>
     <body>
-      <a href="{{ page.url }}">Download the .cs file here</a>
+      <a id="downloadLink" href="#">Download the .cs file here</a>
       {{ content }}
+      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+      <script language="javascript">
+        var thisPage = "{{ page.url }}";
+        $("#downloadLink").attr('href', thisPage + ".cs");
+      </script>
     </body>
   </html>
-  

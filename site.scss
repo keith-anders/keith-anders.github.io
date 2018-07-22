@@ -1,0 +1,54 @@
+---
+---
+
+@import "bootstrap/functions";
+@import "bootstrap/variables";
+
+$theme-colors: (
+  primary: blue
+);
+
+@import "bootstrap";
+
+table {
+  @extend .table;
+  @extend .table-striped;
+  @extend .table-bordered;
+}
+
+table thead tr th:first-child {
+  width:120px;
+}
+
+.navbar-dark {
+  background: #333333;
+}
+
+.nav-pills li {
+  background: #999999;
+}
+.nav-pills li:hover {
+  background: #555555;
+}
+.nav-pills li a.nav-link {
+  color: black;
+}
+
+.nav-pills li.active {
+  background: #0000ff;
+}
+.nav-pills li.active a {
+  color: black;
+  font-weight:bold;
+}
+.nav-pills li.active:hover {
+  background: #0000aa;
+}
+.nav-pills li.first-pill, .nav-pills li.first-pill a {
+  border-top-left-radius: 0.35rem;
+  border-bottom-left-radius: 0.35rem;
+}
+.nav-pills li.last-pill, .nav-pills li.last-pill a {
+  border-top-right-radius: 0.35rem;
+  border-bottom-right-radius: 0.35rem;
+}

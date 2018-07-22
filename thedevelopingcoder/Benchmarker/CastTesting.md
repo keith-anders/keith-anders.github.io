@@ -1,8 +1,10 @@
 ---
-title: Document Center
+title: Benchmarking
+layout: csharp
+date: 2018-07-21
 ---
 
-```csharp
+~~~~~~~~
 ﻿#define CSHARP7
 
 using System;
@@ -361,4 +363,5 @@ namespace Benchmarking
     //    }
     //}
 }
-```
+~~~~~~~~
+{: .language-csharp}
