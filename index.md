@@ -6,7 +6,6 @@ date: 2018-07-21
 
 ## Scheduled
 
-- Jul 22, 2018. Further thoughts on code reuse
 - Jul 29, 2018. Agile Myths, Part Two. Another six myths surrounding Agile Software Development, and Scrum in particular.
 - Aug 5, 2018. Unit Test Frameworks in C#, Part Four: Assertion Frameworks. Explanation of how to assert in your tests.
 - Aug 12, 2018. Unit Test Frameworks in C#, Part Five: Advanced Features. Data-driven tests in MSTest. Various extensibility points in NUnit and xUnit. Possibly an introduction to Moq or Autofac.
@@ -27,6 +26,7 @@ date: 2018-07-21
 
 | Date | Title | Comments |
 | :---: | :---:| :---:|
+| Jul 22, 2018 | [Reinventing the Wheel, Redux](https://medium.com/@kanders84152/reinventing-the-wheel-redux-33cdd4f2bb87) | Further thoughts on code reuse |
 | Jul 15, 2018 | [Agile Myths, Part One](https://thedevelopingcoder.com/2018/07/16/agile-myths-part-one/) | Six of twelve myths surrounding Agile Software Development. |
 | Jul 8, 2018 | n/a | The research I had done on the next entry in the Unit Test Framework series accidentally got deleted, so I wasn't able to post this week. |
 | Jul 1, 2018 | [Unit Test Frameworks in C#, Part Three: Data-Driven Tests](https://thedevelopingcoder.com/2018/07/03/unit-test-frameworks-in-c-part-three-data-driven-tests/) | Writing data-driven tests in xUnit.net and NUnit. |
