@@ -6,15 +6,14 @@ date: 2018-07-28
 
 ## Scheduled
 
-- Aug 5, 2018. Agile Myths, Part Two. Another six myths surrounding Agile Software Development, and Scrum in particular.
 - Aug 12, 2018. Unit Test Frameworks in C#, Part Four: Assertion Frameworks. Explanation of how to assert in your tests.
 - Aug 19, 2018. Unit Test Frameworks in C#, Part Five: Advanced Features. Data-driven tests in MSTest. Various extensibility points in NUnit and xUnit. Possibly an introduction to Moq or Autofac.
+- Aug 26, 2018. Null. A discussion on Sir Anthony Hoare's billion dollar mistake.
 
 ## Parking lot of ideas for future posts
 
 - Walk-through of Castle DynamicProxy, one of the most powerful libraries for the .NET Framework.
 - A discussion on the practice of requiring an engineering team to add intellisense comments to every code element.
-- A discussion on Sir Anthony Hoare's billion dollar mistake.
 - Design patterns
 - Why I don't like the term "Technical Debt".
 - A discussion on unit testing versus integration testing.
@@ -26,6 +25,7 @@ date: 2018-07-28
 
 | Date | Title | Comments |
 | :---: | :---:| :---:|
+| Aug 5, 2018 | [Agile Myths, Part Two](https://thedevelopingcoder.com/2018/08/04/agile-myths-part-two/) | Six more myths surrounding Agile Software Development, and the Scrum framework in particular. |
 | Jul 29, 2018 | n/a | Life has pulled me off again. Will resume as normal next week. |
 | Jul 22, 2018 | [Reinventing the Wheel, Redux](https://medium.com/@kanders84152/reinventing-the-wheel-redux-33cdd4f2bb87) | Further thoughts on code reuse |
 | Jul 15, 2018 | [Agile Myths, Part One](https://thedevelopingcoder.com/2018/07/16/agile-myths-part-one/) | Six of twelve myths surrounding Agile Software Development. |
