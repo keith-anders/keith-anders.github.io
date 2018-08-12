@@ -1,14 +1,17 @@
 ---
 title: Blog Schedule
 layout: default
-date: 2018-07-28
+date: 2018-08-12
 ---
+
+<p class="alert alert-warning"><b>Announcement:</b> Effective 12 August 2018, I'll be blogging twice per month instead of once per week. I simply have too much going on in my life to put out a post of any quality more often than that.</p>
 
 ## Scheduled
 
-- Aug 12, 2018. Unit Test Frameworks in C#, Part Four: Assertion Frameworks. Explanation of how to assert in your tests.
-- Aug 19, 2018. Unit Test Frameworks in C#, Part Five: Advanced Features. Data-driven tests in MSTest. Various extensibility points in NUnit and xUnit. Possibly an introduction to Moq or Autofac.
-- Aug 26, 2018. Null. A discussion on Sir Anthony Hoare's billion dollar mistake.
+- Aug 19, 2018. Unit Test Frameworks in C#, Part Four: Basics of Assertion Frameworks. How to do the most common assertions in your tests.
+- Sep 2, 2018. Unit Test Frameworks in C#, Part Five: Advanced Assertion Frameworks. Various assertions that are only available in a small number of frameworks, and those frameworks' extensibility points.
+- Sep 16, 2018. Unit Test Frameworks in C#, Part Six: Advanced Features. Data-driven tests in MSTest. Various extensibility points in NUnit and xUnit. Possibly an introduction to Moq or Autofac.
+- Oct 7, 2018. Null. A discussion on Sir Anthony Hoare's billion dollar mistake.
 
 ## Parking lot of ideas for future posts
 
