@@ -8,7 +8,6 @@ date: 2018-08-12
 
 ## Scheduled
 
-- Aug 19, 2018. Unit Test Frameworks in C#, Part Four: Basics of Assertion Frameworks. How to do the most common assertions in your tests.
 - Sep 2, 2018. Unit Test Frameworks in C#, Part Five: Advanced Assertion Frameworks. Various assertions that are only available in a small number of frameworks, and those frameworks' extensibility points.
 - Sep 16, 2018. Unit Test Frameworks in C#, Part Six: Advanced Features. Data-driven tests in MSTest. Various extensibility points in NUnit and xUnit. Possibly an introduction to Moq or Autofac.
 - Oct 7, 2018. Null. A discussion on Sir Anthony Hoare's billion dollar mistake.
@@ -28,6 +27,7 @@ date: 2018-08-12
 
 | Date | Title | Comments |
 | :---: | :---:| :---:|
+| Aug 19, 2018 | [Unit Test Frameworks in C#, Part Four: Basic Assertions](https://thedevelopingcoder.com/2018/08/20/unit-test-frameworks-in-c-part-four-basic-assertions/) | How to do the more common assertions in five different frameworks, plus some notes on ease of use and quality of error messages in each. |
 | Aug 5, 2018 | [Agile Myths, Part Two](https://thedevelopingcoder.com/2018/08/04/agile-myths-part-two/) | Six more myths surrounding Agile Software Development, and the Scrum framework in particular. |
 | Jul 29, 2018 | n/a | Life has pulled me off again. Will resume as normal next week. |
 | Jul 22, 2018 | [Reinventing the Wheel, Redux](https://medium.com/@kanders84152/reinventing-the-wheel-redux-33cdd4f2bb87) | Further thoughts on code reuse |
