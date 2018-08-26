@@ -1,16 +1,17 @@
 ---
 title: Blog Schedule
 layout: default
-date: 2018-08-12
+date: 2018-08-26
 ---
 
-<p class="alert alert-warning"><b>Announcement:</b> Effective 12 August 2018, I'll be blogging twice per month instead of once per week. I simply have too much going on in my life to put out a post of any quality more often than that.</p>
+<p class="alert alert-warning"><b>Announcement:</b> Effective 26 August 2018, I'll be blogging as I have time instead of on any regular schedule. I simply have too much going on in my life to put out a post of any quality on a consistent basis.</p>
 
-## Scheduled
+## Planned
 
-- Sep 2, 2018. Unit Test Frameworks in C#, Part Five: Advanced Assertion Frameworks. Various assertions that are only available in a small number of frameworks, and those frameworks' extensibility points.
-- Sep 16, 2018. Unit Test Frameworks in C#, Part Six: Advanced Features. Data-driven tests in MSTest. Various extensibility points in NUnit and xUnit. Possibly an introduction to Moq or Autofac.
-- Oct 7, 2018. Null. A discussion on Sir Anthony Hoare's billion dollar mistake.
+- Unit Test Frameworks in C#, Part Five: Advanced Assertion Frameworks. Various assertions that are only available in a small number of frameworks, and those frameworks' extensibility points.
+- Unit Test Frameworks in C#, Part Six: Advanced Features. Data-driven tests in MSTest. Various extensibility points in NUnit and xUnit. Possibly an introduction to Moq or Autofac.
+- Null. A discussion on Sir Anthony Hoare's billion dollar mistake.
+- Git commands.
 
 ## Parking lot of ideas for future posts
 
